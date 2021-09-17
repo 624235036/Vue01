@@ -29,6 +29,7 @@ app.get(apiversion + '/student',  function (req, res)  {
 
   
 });
+// get
 
 //get student ID
 app.get(apiversion + '/student/:studentId',  function (req, res)  {  
